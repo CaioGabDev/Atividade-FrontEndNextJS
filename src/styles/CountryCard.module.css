@@ -1,0 +1,13 @@
+.card {
+    width: 200px;
+    background-color: white;
+}
+
+.flag {
+    object-fit: cover;
+}
+
+.name {
+    text-align: center;
+    margin-top: 10px;
+}
